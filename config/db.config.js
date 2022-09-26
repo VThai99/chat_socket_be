@@ -1,8 +1,8 @@
 module.exports = {
-  HOST: "chatdatabase.ccjxkf9rovy5.ap-southeast-1.rds.amazonaws.com",
-  USER: "hvthai",
-  PASSWORD: "1234567Aa",
-  DB: "chatDB",
+  HOST: "us-cdbr-east-04.cleardb.com",
+  USER: "bddaf688c4a62a",
+  PASSWORD: "730c2465",
+  DB: "heroku_62ef357af56d406",
   dialect: "mysql",
   pool: {
     max: 5,
